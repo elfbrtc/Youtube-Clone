@@ -6,7 +6,6 @@ import VideoCallIcon from '@mui/icons-material/VideoCall';
 import AppsIcon from '@mui/icons-material/Apps';
 import NotificationsIcon from '@mui/icons-material/Notifications';
 import Avatar from '@mui/material/Avatar';
-import logo from '../assets/youtubelogo.svg'
 
 function Header() {
   return (
