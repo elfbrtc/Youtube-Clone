@@ -1,9 +1,21 @@
 import React from 'react'
+import VideoCard from './VideoCard';
 import '../style/Content.scss';
 function Content() {
   return (
     <div className="content">
-        video place
+        <h2>Recommended</h2>
+        <div className='content__videos'>
+          <VideoCard/>
+          <VideoCard/>
+          <VideoCard/>
+          <VideoCard/>
+          <VideoCard/>
+          <VideoCard/>
+          <VideoCard/>
+          <VideoCard/>
+          
+        </div>
     </div>
   )
 }
