@@ -1,0 +1,20 @@
+.videoCard{
+    margin-bottom: 40px;
+    width: 270px;
+
+}
+
+.videoCard__thumbnail{
+    height: 140px;
+    width: 250px;
+    object-fit:cover;
+}
+
+// .content__videos{
+//     display: flex;
+//     flex-wrap: wrap;
+// }
+
+.videoCard__info{
+    display: flex;
+}
