@@ -4,13 +4,12 @@ import Sidebar from './Sidebar'
 
 const Homepage = () => {
   return (
-    <>
     <div className="app__page">
         <Sidebar/>
         <Content/>
     </div>
     
-    </>
+    
   )
 }
 
